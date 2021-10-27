@@ -1,0 +1,1205 @@
+10-25 08:14:35.332 I/init    (0): Service 'sensors' (pid 5386) exited with status 6
+10-25 08:14:35.332 I/init    (0): Sending signal 9 to service 'sensors' (pid 5386) process group...
+10-25 08:14:35.335 I/init    (0): starting service 'sensors'...
+10-25 08:14:55.432 I/init    (0): Service 'sensors' (pid 6040) exited with status 6
+10-25 08:14:55.432 I/init    (0): Sending signal 9 to service 'sensors' (pid 6040) process group...
+10-25 08:14:55.435 I/init    (0): starting service 'sensors'...
+10-25 08:15:15.564 I/init    (0): Service 'sensors' (pid 6423) exited with status 6
+10-25 08:15:15.564 I/init    (0): Sending signal 9 to service 'sensors' (pid 6423) process group...
+10-25 08:15:15.567 I/init    (0): starting service 'sensors'...
+10-25 08:15:35.799 I/init    (0): Service 'sensors' (pid 7010) exited with status 6
+10-25 08:15:35.799 I/init    (0): Sending signal 9 to service 'sensors' (pid 7010) process group...
+10-25 08:15:35.801 I/init    (0): starting service 'sensors'...
+10-25 08:15:55.889 I/init    (0): Service 'sensors' (pid 7393) exited with status 6
+10-25 08:15:55.890 I/init    (0): Sending signal 9 to service 'sensors' (pid 7393) process group...
+10-25 08:15:55.891 I/init    (0): starting service 'sensors'...
+10-25 08:16:15.960 I/init    (0): Service 'sensors' (pid 7762) exited with status 6
+10-25 08:16:15.960 I/init    (0): Sending signal 9 to service 'sensors' (pid 7762) process group...
+10-25 08:16:15.962 I/init    (0): starting service 'sensors'...
+10-25 08:16:36.029 I/init    (0): Service 'sensors' (pid 8105) exited with status 6
+10-25 08:16:36.030 I/init    (0): Sending signal 9 to service 'sensors' (pid 8105) process group...
+10-25 08:16:36.031 I/init    (0): starting service 'sensors'...
+10-25 08:16:56.091 I/init    (0): Service 'sensors' (pid 8475) exited with status 6
+10-25 08:16:56.091 I/init    (0): Sending signal 9 to service 'sensors' (pid 8475) process group...
+10-25 08:16:56.092 I/init    (0): starting service 'sensors'...
+10-25 08:17:16.176 I/init    (0): Service 'sensors' (pid 9290) exited with status 6
+10-25 08:17:16.176 I/init    (0): Sending signal 9 to service 'sensors' (pid 9290) process group...
+10-25 08:17:16.179 I/init    (0): starting service 'sensors'...
+10-25 08:17:36.256 I/init    (0): Service 'sensors' (pid 9993) exited with status 6
+10-25 08:17:36.256 I/init    (0): Sending signal 9 to service 'sensors' (pid 9993) process group...
+10-25 08:17:36.258 I/init    (0): starting service 'sensors'...
+10-25 08:17:56.318 I/init    (0): Service 'sensors' (pid 11324) exited with status 6
+10-25 08:17:56.318 I/init    (0): Sending signal 9 to service 'sensors' (pid 11324) process group...
+10-25 08:17:56.320 I/init    (0): starting service 'sensors'...
+10-25 08:18:16.399 I/init    (0): Service 'sensors' (pid 11756) exited with status 6
+10-25 08:18:16.399 I/init    (0): Sending signal 9 to service 'sensors' (pid 11756) process group...
+10-25 08:18:16.407 I/init    (0): starting service 'sensors'...
+10-25 08:18:36.491 I/init    (0): Service 'sensors' (pid 12150) exited with status 6
+10-25 08:18:36.491 I/init    (0): Sending signal 9 to service 'sensors' (pid 12150) process group...
+10-25 08:18:36.493 I/init    (0): starting service 'sensors'...
+10-25 08:18:56.566 I/init    (0): Service 'sensors' (pid 12364) exited with status 6
+10-25 08:18:56.566 I/init    (0): Sending signal 9 to service 'sensors' (pid 12364) process group...
+10-25 08:18:56.568 I/init    (0): starting service 'sensors'...
+10-25 08:19:16.640 I/init    (0): Service 'sensors' (pid 12567) exited with status 6
+10-25 08:19:16.640 I/init    (0): Sending signal 9 to service 'sensors' (pid 12567) process group...
+10-25 08:19:16.643 I/init    (0): starting service 'sensors'...
+10-25 08:19:36.733 I/init    (0): Service 'sensors' (pid 12883) exited with status 6
+10-25 08:19:36.733 I/init    (0): Sending signal 9 to service 'sensors' (pid 12883) process group...
+10-25 08:19:36.735 I/init    (0): starting service 'sensors'...
+10-25 08:19:56.795 I/init    (0): Service 'sensors' (pid 13375) exited with status 6
+10-25 08:19:56.795 I/init    (0): Sending signal 9 to service 'sensors' (pid 13375) process group...
+10-25 08:19:56.797 I/init    (0): starting service 'sensors'...
+10-25 08:20:16.850 I/init    (0): Service 'sensors' (pid 13722) exited with status 6
+10-25 08:20:16.850 I/init    (0): Sending signal 9 to service 'sensors' (pid 13722) process group...
+10-25 08:20:16.852 I/init    (0): starting service 'sensors'...
+10-25 08:20:36.912 I/init    (0): Service 'sensors' (pid 14154) exited with status 6
+10-25 08:20:36.912 I/init    (0): Sending signal 9 to service 'sensors' (pid 14154) process group...
+10-25 08:20:36.914 I/init    (0): starting service 'sensors'...
+10-25 08:20:56.981 I/init    (0): Service 'sensors' (pid 14568) exited with status 6
+10-25 08:20:56.981 I/init    (0): Sending signal 9 to service 'sensors' (pid 14568) process group...
+10-25 08:20:56.982 I/init    (0): starting service 'sensors'...
+10-25 08:21:06.997 V/chatty  (15005): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:21:17.012 E/Sensors (15005): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:17.012 E/Sensors (15005): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:17.013 E/Sensors (15005): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:17.013 E/Sensors (15005): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:17.019 W/sensors.qcom(15005): type=1400 audit(0.0:1784): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:21:17.019 W/sensors.qcom(15005): type=1400 audit(0.0:1785): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:21:17.032 E/Sensors (15005): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:21:17.032 E/Sensors (15005): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:21:17.032 E/Sensors (15005): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:21:17.049 W/sensors.qcom(15162): type=1400 audit(0.0:1786): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:21:17.079 W/sensors.qcom(15166): type=1400 audit(0.0:1787): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:21:17.079 W/sensors.qcom(15166): type=1400 audit(0.0:1788): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:21:17.094 I/init    (0): Service 'sensors' (pid 15005) exited with status 6
+10-25 08:21:17.094 I/init    (0): Sending signal 9 to service 'sensors' (pid 15005) process group...
+10-25 08:21:17.095 E/Sensors (15162): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:21:17.096 E/Sensors (15162): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:21:17.096 E/Sensors (15162): sns_reg_la.c(375):Error creating registry file
+10-25 08:21:17.096 W/Sensors (15162): sns_reg_mr.c(367):File init failed 5
+10-25 08:21:17.096 I/init    (0): starting service 'sensors'...
+10-25 08:21:27.105 E/Sensors (15162): sns_sam.c(4704):SMGR not ready!
+10-25 08:21:37.111 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.112 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.113 E/Sensors (15162): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:21:37.113 E/Sensors (15162): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:21:37.113 E/Sensors (15162): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:21:37.113 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.113 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.116 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.116 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.117 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.117 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.118 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.118 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.120 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.121 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.121 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.121 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.122 E/Sensors (15162): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:21:37.122 E/Sensors (15162): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:21:37.149 W/sensors.qcom(15162): type=1400 audit(0.0:1795): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:21:37.149 W/sensors.qcom(15162): type=1400 audit(0.0:1796): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:21:37.163 E/Sensors (15162): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:21:37.163 E/Sensors (15162): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:21:37.163 E/Sensors (15162): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:21:37.179 W/sensors.qcom(15195): type=1400 audit(0.0:1797): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:21:37.199 W/sensors.qcom(15198): type=1400 audit(0.0:1798): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:21:37.199 V/chatty  (15198): uid=0(root) /system/bin/sensors.qcom identical 3 lines
+10-25 08:21:37.208 V/chatty  (15195): uid=0(root) /system/bin/sensors.qcom expire 7 lines
+10-25 08:21:37.214 V/chatty  (15195): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:21:37.218 I/init    (0): Service 'sensors' (pid 15162) exited with status 6
+10-25 08:21:37.218 I/init    (0): Sending signal 9 to service 'sensors' (pid 15162) process group...
+10-25 08:21:37.221 I/init    (0): starting service 'sensors'...
+10-25 08:21:47.217 V/chatty  (15195): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:21:57.289 V/chatty  (15279): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:21:57.328 V/chatty  (15279): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:21:57.331 I/init    (0): Service 'sensors' (pid 15195) exited with status 6
+10-25 08:21:57.331 I/init    (0): Sending signal 9 to service 'sensors' (pid 15195) process group...
+10-25 08:21:57.334 I/init    (0): starting service 'sensors'...
+10-25 08:22:07.332 V/chatty  (15279): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:22:17.389 V/chatty  (15298): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:22:17.419 V/chatty  (15301): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:22:17.434 I/init    (0): Service 'sensors' (pid 15279) exited with status 6
+10-25 08:22:17.434 I/init    (0): Sending signal 9 to service 'sensors' (pid 15279) process group...
+10-25 08:22:17.435 V/chatty  (15298): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:22:17.437 I/init    (0): starting service 'sensors'...
+10-25 08:22:27.444 V/chatty  (15298): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:22:37.499 V/chatty  (15314): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:22:37.519 V/chatty  (15317): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:22:37.538 V/chatty  (15314): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:22:37.542 I/init    (0): Service 'sensors' (pid 15298) exited with status 6
+10-25 08:22:37.542 I/init    (0): Sending signal 9 to service 'sensors' (pid 15298) process group...
+10-25 08:22:37.545 I/init    (0): starting service 'sensors'...
+10-25 08:22:47.546 V/chatty  (15314): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:22:57.609 V/chatty  (15347): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:22:57.639 V/chatty  (15350): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:22:57.650 V/chatty  (15347): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:22:57.655 I/init    (0): Service 'sensors' (pid 15314) exited with status 6
+10-25 08:22:57.655 I/init    (0): Sending signal 9 to service 'sensors' (pid 15314) process group...
+10-25 08:22:57.658 I/init    (0): starting service 'sensors'...
+10-25 08:23:07.658 V/chatty  (15347): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:23:17.739 V/chatty  (15373): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:23:17.759 V/chatty  (15378): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:23:17.775 V/chatty  (15373): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:23:17.780 I/init    (0): Service 'sensors' (pid 15347) exited with status 6
+10-25 08:23:17.780 I/init    (0): Sending signal 9 to service 'sensors' (pid 15347) process group...
+10-25 08:23:17.782 I/init    (0): starting service 'sensors'...
+10-25 08:23:27.781 V/chatty  (15373): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:23:37.869 V/chatty  (15456): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:23:37.889 V/chatty  (15459): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:23:37.907 V/chatty  (15456): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:23:37.908 I/init    (0): Service 'sensors' (pid 15373) exited with status 6
+10-25 08:23:37.908 I/init    (0): Sending signal 9 to service 'sensors' (pid 15373) process group...
+10-25 08:23:37.911 I/init    (0): starting service 'sensors'...
+10-25 08:23:47.913 V/chatty  (15456): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:23:57.969 V/chatty  (15482): uid=0(root) /system/bin/sensors.qcom expire 3 lines
+10-25 08:23:57.999 V/chatty  (15485): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:23:58.010 V/chatty  (15482): uid=0(root) /system/bin/sensors.qcom expire 10 lines
+10-25 08:23:58.016 I/init    (0): Service 'sensors' (pid 15456) exited with status 6
+10-25 08:23:58.016 I/init    (0): Sending signal 9 to service 'sensors' (pid 15456) process group...
+10-25 08:23:58.019 I/init    (0): starting service 'sensors'...
+10-25 08:24:08.014 V/chatty  (15482): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:24:18.024 V/chatty  (15482): uid=0(root) /system/bin/sensors.qcom expire 10 lines
+10-25 08:24:18.039 V/chatty  (15482): uid=0(root) /system/bin/sensors.qcom expire 5 lines
+10-25 08:24:18.079 V/chatty  (15511): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:24:18.109 V/chatty  (15514): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:24:18.121 I/init    (0): Service 'sensors' (pid 15482) exited with status 6
+10-25 08:24:18.121 I/init    (0): Sending signal 9 to service 'sensors' (pid 15482) process group...
+10-25 08:24:18.124 V/chatty  (15511): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:24:18.126 I/init    (0): starting service 'sensors'...
+10-25 08:24:28.134 V/chatty  (15511): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:24:38.189 V/chatty  (15690): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:24:38.209 V/chatty  (15695): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:24:38.220 V/chatty  (15690): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:24:38.230 I/init    (0): Service 'sensors' (pid 15511) exited with status 6
+10-25 08:24:38.230 I/init    (0): Sending signal 9 to service 'sensors' (pid 15511) process group...
+10-25 08:24:38.232 I/init    (0): starting service 'sensors'...
+10-25 08:24:48.226 V/chatty  (15690): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:24:58.289 V/chatty  (15854): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:24:58.309 V/chatty  (15857): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:24:58.320 V/chatty  (15854): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:24:58.325 I/init    (0): Service 'sensors' (pid 15690) exited with status 6
+10-25 08:24:58.325 I/init    (0): Sending signal 9 to service 'sensors' (pid 15690) process group...
+10-25 08:24:58.329 I/init    (0): starting service 'sensors'...
+10-25 08:25:08.324 V/chatty  (15854): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:25:18.399 V/chatty  (15881): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:25:18.429 V/chatty  (15884): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:25:18.440 V/chatty  (15881): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:25:18.443 I/init    (0): Service 'sensors' (pid 15854) exited with status 6
+10-25 08:25:18.443 I/init    (0): Sending signal 9 to service 'sensors' (pid 15854) process group...
+10-25 08:25:18.445 I/init    (0): starting service 'sensors'...
+10-25 08:25:28.449 V/chatty  (15881): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:25:38.519 V/chatty  (15909): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:25:38.539 V/chatty  (15912): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:25:38.555 V/chatty  (15909): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:25:38.559 I/init    (0): Service 'sensors' (pid 15881) exited with status 6
+10-25 08:25:38.559 I/init    (0): Sending signal 9 to service 'sensors' (pid 15881) process group...
+10-25 08:25:38.562 I/init    (0): starting service 'sensors'...
+10-25 08:25:48.558 V/chatty  (15909): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:25:58.677 I/init    (0): Service 'sensors' (pid 15909) exited with status 6
+10-25 08:25:58.677 I/init    (0): Sending signal 9 to service 'sensors' (pid 15909) process group...
+10-25 08:25:58.680 I/init    (0): starting service 'sensors'...
+10-25 08:25:58.629 V/chatty  (15941): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:25:58.671 V/chatty  (15941): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:25:58.659 V/chatty  (15944): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:26:08.676 V/chatty  (15941): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:26:18.795 I/init    (0): Service 'sensors' (pid 15941) exited with status 6
+10-25 08:26:18.795 I/init    (0): Sending signal 9 to service 'sensors' (pid 15941) process group...
+10-25 08:26:18.798 I/init    (0): starting service 'sensors'...
+10-25 08:26:18.749 V/chatty  (15964): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:26:18.790 V/chatty  (15964): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:26:18.779 V/chatty  (15967): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:26:28.794 V/chatty  (15964): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:26:28.834 V/chatty  (15964): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:26:28.903 I/init    (0): Service 'sensors' (pid 15964) exited with status 6
+10-25 08:26:28.903 I/init    (0): Sending signal 9 to service 'sensors' (pid 15964) process group...
+10-25 08:26:28.905 I/init    (0): starting service 'sensors'...
+10-25 08:26:28.859 V/chatty  (15983): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:26:28.892 V/chatty  (15983): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:26:28.879 V/chatty  (15986): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:26:38.896 V/chatty  (15983): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:26:39.002 I/init    (0): Service 'sensors' (pid 15983) exited with status 6
+10-25 08:26:39.003 I/init    (0): Sending signal 9 to service 'sensors' (pid 15983) process group...
+10-25 08:26:39.005 I/init    (0): starting service 'sensors'...
+10-25 08:26:38.959 V/chatty  (16000): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:26:38.995 V/chatty  (16000): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:26:38.979 V/chatty  (16003): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:26:48.998 V/chatty  (16000): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:26:49.069 V/chatty  (16017): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:26:49.089 V/chatty  (16020): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:26:49.106 V/chatty  (16017): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:26:49.112 I/init    (0): Service 'sensors' (pid 16000) exited with status 6
+10-25 08:26:49.112 I/init    (0): Sending signal 9 to service 'sensors' (pid 16000) process group...
+10-25 08:26:49.114 I/init    (0): starting service 'sensors'...
+10-25 08:26:59.113 V/chatty  (16017): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:26:59.189 V/chatty  (16038): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:26:59.209 V/chatty  (16041): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:26:59.222 V/chatty  (16038): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:26:59.230 I/init    (0): Service 'sensors' (pid 16017) exited with status 6
+10-25 08:26:59.230 I/init    (0): Sending signal 9 to service 'sensors' (pid 16017) process group...
+10-25 08:26:59.232 I/init    (0): starting service 'sensors'...
+10-25 08:27:09.228 V/chatty  (16038): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:27:09.299 V/chatty  (16058): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:27:09.319 V/chatty  (16061): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:27:09.335 V/chatty  (16058): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:27:09.339 I/init    (0): Service 'sensors' (pid 16038) exited with status 6
+10-25 08:27:09.339 I/init    (0): Sending signal 9 to service 'sensors' (pid 16038) process group...
+10-25 08:27:09.341 I/init    (0): starting service 'sensors'...
+10-25 08:27:19.344 V/chatty  (16058): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:27:19.409 V/chatty  (16079): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:27:19.439 V/chatty  (16082): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:27:19.450 V/chatty  (16079): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:27:19.456 I/init    (0): Service 'sensors' (pid 16058) exited with status 6
+10-25 08:27:19.457 I/init    (0): Sending signal 9 to service 'sensors' (pid 16058) process group...
+10-25 08:27:19.459 I/init    (0): starting service 'sensors'...
+10-25 08:27:29.456 V/chatty  (16079): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:27:29.529 V/chatty  (16098): uid=0(root) /system/bin/sensors.qcom expire 8 lines
+10-25 08:27:29.549 V/chatty  (16101): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:27:29.560 V/chatty  (16098): uid=0(root) /system/bin/sensors.qcom expire 20 lines
+10-25 08:27:29.565 I/init    (0): Service 'sensors' (pid 16079) exited with status 6
+10-25 08:27:29.565 I/init    (0): Sending signal 9 to service 'sensors' (pid 16079) process group...
+10-25 08:27:29.569 I/init    (0): starting service 'sensors'...
+10-25 08:27:39.564 V/chatty  (16098): uid=0(root) /system/bin/sensors.qcom expire 4 lines
+10-25 08:27:39.629 V/chatty  (16118): uid=0(root) /system/bin/sensors.qcom expire 3 lines
+10-25 08:27:39.649 V/chatty  (16121): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:27:39.666 V/chatty  (16118): uid=0(root) /system/bin/sensors.qcom expire 6 lines
+10-25 08:27:39.671 I/init    (0): Service 'sensors' (pid 16098) exited with status 6
+10-25 08:27:39.671 I/init    (0): Sending signal 9 to service 'sensors' (pid 16098) process group...
+10-25 08:27:39.673 I/init    (0): starting service 'sensors'...
+10-25 08:27:49.672 V/chatty  (16118): uid=0(root) /system/bin/sensors.qcom expire 2 lines
+10-25 08:27:49.693 E/Sensors (16118): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:27:49.693 E/Sensors (16118): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:27:49.693 E/Sensors (16118): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:49.693 E/Sensors (16118): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:49.694 E/Sensors (16118): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:49.694 E/Sensors (16118): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:49.696 E/Sensors (16118): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:49.696 E/Sensors (16118): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:49.696 E/Sensors (16118): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:49.696 E/Sensors (16118): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:49.696 E/Sensors (16118): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:49.696 E/Sensors (16118): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:49.697 E/Sensors (16118): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:49.697 E/Sensors (16118): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:49.697 E/Sensors (16118): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:49.697 E/Sensors (16118): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:49.699 W/sensors.qcom(16118): type=1400 audit(0.0:2062): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:49.699 W/sensors.qcom(16118): type=1400 audit(0.0:2063): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:49.717 E/Sensors (16118): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:27:49.717 E/Sensors (16118): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:27:49.717 E/Sensors (16118): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:27:49.739 W/sensors.qcom(16135): type=1400 audit(0.0:2064): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:27:49.759 W/sensors.qcom(16138): type=1400 audit(0.0:2065): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:49.759 W/sensors.qcom(16138): type=1400 audit(0.0:2066): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:49.770 E/Sensors (16135): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:27:49.770 E/Sensors (16135): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:27:49.770 E/Sensors (16135): sns_reg_la.c(375):Error creating registry file
+10-25 08:27:49.770 W/Sensors (16135): sns_reg_mr.c(367):File init failed 5
+10-25 08:27:49.778 I/init    (0): Service 'sensors' (pid 16118) exited with status 6
+10-25 08:27:49.778 I/init    (0): Sending signal 9 to service 'sensors' (pid 16118) process group...
+10-25 08:27:49.781 I/init    (0): starting service 'sensors'...
+10-25 08:27:59.774 E/Sensors (16135): sns_sam.c(4704):SMGR not ready!
+10-25 08:27:59.777 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.777 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.778 E/Sensors (16135): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:27:59.778 E/Sensors (16135): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:27:59.778 E/Sensors (16135): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:27:59.778 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.778 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.779 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.779 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.779 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.779 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.780 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.780 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.781 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.781 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.781 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.781 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.782 E/Sensors (16135): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:27:59.782 E/Sensors (16135): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:27:59.799 W/sensors.qcom(16135): type=1400 audit(0.0:2069): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:59.799 W/sensors.qcom(16135): type=1400 audit(0.0:2070): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:59.810 E/Sensors (16135): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:27:59.810 E/Sensors (16135): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:27:59.810 E/Sensors (16135): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:27:59.829 W/sensors.qcom(16157): type=1400 audit(0.0:2071): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:27:59.859 W/sensors.qcom(16160): type=1400 audit(0.0:2072): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:59.859 W/sensors.qcom(16160): type=1400 audit(0.0:2073): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:27:59.870 E/Sensors (16157): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:27:59.870 E/Sensors (16157): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:27:59.870 E/Sensors (16157): sns_reg_la.c(375):Error creating registry file
+10-25 08:27:59.870 W/Sensors (16157): sns_reg_mr.c(367):File init failed 5
+10-25 08:27:59.876 I/init    (0): Service 'sensors' (pid 16135) exited with status 6
+10-25 08:27:59.876 I/init    (0): Sending signal 9 to service 'sensors' (pid 16135) process group...
+10-25 08:27:59.879 I/init    (0): starting service 'sensors'...
+10-25 08:28:09.874 E/Sensors (16157): sns_sam.c(4704):SMGR not ready!
+10-25 08:28:09.877 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.878 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.879 E/Sensors (16157): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:28:09.879 E/Sensors (16157): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:28:09.879 E/Sensors (16157): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:28:09.880 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.880 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.882 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.882 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.883 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.883 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.884 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.884 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.884 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.884 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.885 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.885 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.885 E/Sensors (16157): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:09.885 E/Sensors (16157): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:09.899 W/sensors.qcom(16157): type=1400 audit(0.0:2076): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:09.899 W/sensors.qcom(16157): type=1400 audit(0.0:2077): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:09.912 E/Sensors (16157): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:28:09.912 E/Sensors (16157): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:28:09.912 E/Sensors (16157): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:28:09.939 W/sensors.qcom(16174): type=1400 audit(0.0:2078): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:28:09.959 W/sensors.qcom(16177): type=1400 audit(0.0:2079): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:09.959 W/sensors.qcom(16177): type=1400 audit(0.0:2080): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:09.974 E/Sensors (16174): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:28:09.975 E/Sensors (16174): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:28:09.975 E/Sensors (16174): sns_reg_la.c(375):Error creating registry file
+10-25 08:28:09.975 W/Sensors (16174): sns_reg_mr.c(367):File init failed 5
+10-25 08:28:09.979 I/init    (0): Service 'sensors' (pid 16157) exited with status 6
+10-25 08:28:09.979 I/init    (0): Sending signal 9 to service 'sensors' (pid 16157) process group...
+10-25 08:28:09.981 I/init    (0): starting service 'sensors'...
+10-25 08:28:19.978 E/Sensors (16174): sns_sam.c(4704):SMGR not ready!
+10-25 08:28:19.988 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.989 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.991 E/Sensors (16174): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:28:19.991 E/Sensors (16174): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:28:19.991 E/Sensors (16174): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:28:19.994 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.994 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.994 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.994 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.995 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.995 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.995 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.995 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.995 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.995 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.996 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.996 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.996 E/Sensors (16174): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:19.996 E/Sensors (16174): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:19.999 W/sensors.qcom(16174): type=1400 audit(0.0:2083): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:19.999 W/sensors.qcom(16174): type=1400 audit(0.0:2084): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:20.017 E/Sensors (16174): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:28:20.018 E/Sensors (16174): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:28:20.018 E/Sensors (16174): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:28:20.039 W/sensors.qcom(16193): type=1400 audit(0.0:2085): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:28:20.059 W/sensors.qcom(16196): type=1400 audit(0.0:2086): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:20.059 W/sensors.qcom(16196): type=1400 audit(0.0:2087): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:20.079 E/Sensors (16193): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:28:20.079 E/Sensors (16193): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:28:20.079 E/Sensors (16193): sns_reg_la.c(375):Error creating registry file
+10-25 08:28:20.079 W/Sensors (16193): sns_reg_mr.c(367):File init failed 5
+10-25 08:28:20.082 I/init    (0): Service 'sensors' (pid 16174) exited with status 6
+10-25 08:28:20.082 I/init    (0): Sending signal 9 to service 'sensors' (pid 16174) process group...
+10-25 08:28:20.085 I/init    (0): starting service 'sensors'...
+10-25 08:28:30.088 E/Sensors (16193): sns_sam.c(4704):SMGR not ready!
+10-25 08:28:30.092 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.093 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.098 E/Sensors (16193): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:28:30.098 E/Sensors (16193): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:28:30.098 E/Sensors (16193): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:28:30.099 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.099 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.102 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.102 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.103 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.103 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.104 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.104 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.104 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.104 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.105 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.105 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.105 E/Sensors (16193): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:30.105 E/Sensors (16193): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:30.119 W/sensors.qcom(16193): type=1400 audit(0.0:2090): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:30.119 W/sensors.qcom(16193): type=1400 audit(0.0:2091): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:30.132 E/Sensors (16193): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:28:30.132 E/Sensors (16193): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:28:30.132 E/Sensors (16193): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:28:30.149 W/sensors.qcom(16211): type=1400 audit(0.0:2092): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:28:30.179 W/sensors.qcom(16214): type=1400 audit(0.0:2093): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:30.179 W/sensors.qcom(16214): type=1400 audit(0.0:2094): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:30.190 E/Sensors (16211): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:28:30.191 E/Sensors (16211): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:28:30.191 E/Sensors (16211): sns_reg_la.c(375):Error creating registry file
+10-25 08:28:30.191 W/Sensors (16211): sns_reg_mr.c(367):File init failed 5
+10-25 08:28:30.194 I/init    (0): Service 'sensors' (pid 16193) exited with status 6
+10-25 08:28:30.194 I/init    (0): Sending signal 9 to service 'sensors' (pid 16193) process group...
+10-25 08:28:30.196 I/init    (0): starting service 'sensors'...
+10-25 08:28:40.194 E/Sensors (16211): sns_sam.c(4704):SMGR not ready!
+10-25 08:28:40.197 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.197 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.198 E/Sensors (16211): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:28:40.199 E/Sensors (16211): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:28:40.199 E/Sensors (16211): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:28:40.199 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.199 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.200 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.200 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.201 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.201 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.202 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.202 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.202 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.202 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.203 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.203 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.203 E/Sensors (16211): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:40.204 E/Sensors (16211): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:40.219 W/sensors.qcom(16211): type=1400 audit(0.0:2097): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:40.219 W/sensors.qcom(16211): type=1400 audit(0.0:2098): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:40.232 E/Sensors (16211): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:28:40.233 E/Sensors (16211): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:28:40.233 E/Sensors (16211): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:28:40.249 W/sensors.qcom(16230): type=1400 audit(0.0:2099): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:28:40.279 W/sensors.qcom(16233): type=1400 audit(0.0:2100): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:40.279 W/sensors.qcom(16233): type=1400 audit(0.0:2101): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:40.290 E/Sensors (16230): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:28:40.290 E/Sensors (16230): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:28:40.290 E/Sensors (16230): sns_reg_la.c(375):Error creating registry file
+10-25 08:28:40.291 W/Sensors (16230): sns_reg_mr.c(367):File init failed 5
+10-25 08:28:40.296 I/init    (0): Service 'sensors' (pid 16211) exited with status 6
+10-25 08:28:40.296 I/init    (0): Sending signal 9 to service 'sensors' (pid 16211) process group...
+10-25 08:28:40.298 I/init    (0): starting service 'sensors'...
+10-25 08:28:50.294 E/Sensors (16230): sns_sam.c(4704):SMGR not ready!
+10-25 08:28:50.298 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.299 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.303 E/Sensors (16230): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:28:50.303 E/Sensors (16230): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:28:50.303 E/Sensors (16230): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:28:50.303 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.303 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.306 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.306 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.308 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.308 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.308 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.308 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.308 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.308 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.309 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.309 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.309 E/Sensors (16230): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:28:50.309 E/Sensors (16230): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:28:50.329 W/sensors.qcom(16230): type=1400 audit(0.0:2104): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:50.329 W/sensors.qcom(16230): type=1400 audit(0.0:2105): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:50.340 E/Sensors (16230): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:28:50.340 E/Sensors (16230): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:28:50.340 E/Sensors (16230): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:28:50.359 W/sensors.qcom(16251): type=1400 audit(0.0:2106): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:28:50.379 W/sensors.qcom(16254): type=1400 audit(0.0:2107): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:50.379 W/sensors.qcom(16254): type=1400 audit(0.0:2108): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:28:50.396 E/Sensors (16251): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:28:50.397 E/Sensors (16251): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:28:50.397 E/Sensors (16251): sns_reg_la.c(375):Error creating registry file
+10-25 08:28:50.397 W/Sensors (16251): sns_reg_mr.c(367):File init failed 5
+10-25 08:28:50.405 I/init    (0): Service 'sensors' (pid 16230) exited with status 6
+10-25 08:28:50.405 I/init    (0): Sending signal 9 to service 'sensors' (pid 16230) process group...
+10-25 08:28:50.408 I/init    (0): starting service 'sensors'...
+10-25 08:29:00.400 E/Sensors (16251): sns_sam.c(4704):SMGR not ready!
+10-25 08:29:00.405 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.405 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.406 E/Sensors (16251): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:29:00.406 E/Sensors (16251): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:29:00.406 E/Sensors (16251): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:29:00.407 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.407 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.408 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.408 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.408 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.408 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.410 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.410 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.411 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.411 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.413 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.413 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.417 E/Sensors (16251): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:00.418 E/Sensors (16251): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:00.439 W/sensors.qcom(16251): type=1400 audit(0.0:2111): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:00.439 W/sensors.qcom(16251): type=1400 audit(0.0:2112): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:00.454 E/Sensors (16251): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:29:00.454 E/Sensors (16251): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:29:00.454 E/Sensors (16251): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:29:00.479 W/sensors.qcom(16275): type=1400 audit(0.0:2113): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:29:00.499 W/sensors.qcom(16278): type=1400 audit(0.0:2114): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:00.499 W/sensors.qcom(16278): type=1400 audit(0.0:2115): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:00.516 E/Sensors (16275): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:29:00.516 E/Sensors (16275): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:29:00.516 E/Sensors (16275): sns_reg_la.c(375):Error creating registry file
+10-25 08:29:00.516 W/Sensors (16275): sns_reg_mr.c(367):File init failed 5
+10-25 08:29:00.520 I/init    (0): Service 'sensors' (pid 16251) exited with status 6
+10-25 08:29:00.520 I/init    (0): Sending signal 9 to service 'sensors' (pid 16251) process group...
+10-25 08:29:00.523 I/init    (0): starting service 'sensors'...
+10-25 08:29:10.521 E/Sensors (16275): sns_sam.c(4704):SMGR not ready!
+10-25 08:29:10.525 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.525 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.526 E/Sensors (16275): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:29:10.526 E/Sensors (16275): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:29:10.526 E/Sensors (16275): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:29:10.526 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.526 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.527 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.527 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.528 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.528 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.528 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.528 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.529 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.529 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.530 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.530 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.533 E/Sensors (16275): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:10.533 E/Sensors (16275): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:10.549 W/sensors.qcom(16275): type=1400 audit(0.0:2118): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:10.549 W/sensors.qcom(16275): type=1400 audit(0.0:2119): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:10.563 E/Sensors (16275): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:29:10.563 E/Sensors (16275): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:29:10.563 E/Sensors (16275): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:29:10.579 W/sensors.qcom(16292): type=1400 audit(0.0:2120): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:29:10.599 W/sensors.qcom(16295): type=1400 audit(0.0:2121): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:10.599 W/sensors.qcom(16295): type=1400 audit(0.0:2122): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:10.617 E/Sensors (16292): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:29:10.617 E/Sensors (16292): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:29:10.617 E/Sensors (16292): sns_reg_la.c(375):Error creating registry file
+10-25 08:29:10.617 W/Sensors (16292): sns_reg_mr.c(367):File init failed 5
+10-25 08:29:10.620 I/init    (0): Service 'sensors' (pid 16275) exited with status 6
+10-25 08:29:10.620 I/init    (0): Sending signal 9 to service 'sensors' (pid 16275) process group...
+10-25 08:29:10.623 I/init    (0): starting service 'sensors'...
+10-25 08:29:20.625 E/Sensors (16292): sns_sam.c(4704):SMGR not ready!
+10-25 08:29:20.630 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.630 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.632 E/Sensors (16292): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:29:20.632 E/Sensors (16292): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:29:20.632 E/Sensors (16292): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:29:20.632 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.632 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.632 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.632 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.633 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.633 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.634 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.634 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.635 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.635 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.635 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.636 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.636 E/Sensors (16292): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:20.636 E/Sensors (16292): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:20.639 W/sensors.qcom(16292): type=1400 audit(0.0:2125): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:20.639 W/sensors.qcom(16292): type=1400 audit(0.0:2126): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:20.652 E/Sensors (16292): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:29:20.653 E/Sensors (16292): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:29:20.653 E/Sensors (16292): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:29:20.679 W/sensors.qcom(16310): type=1400 audit(0.0:2127): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:29:20.699 W/sensors.qcom(16313): type=1400 audit(0.0:2128): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:20.699 W/sensors.qcom(16313): type=1400 audit(0.0:2129): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:20.711 E/Sensors (16310): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:29:20.711 E/Sensors (16310): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:29:20.711 E/Sensors (16310): sns_reg_la.c(375):Error creating registry file
+10-25 08:29:20.711 W/Sensors (16310): sns_reg_mr.c(367):File init failed 5
+10-25 08:29:20.720 I/init    (0): Service 'sensors' (pid 16292) exited with status 6
+10-25 08:29:20.720 I/init    (0): Sending signal 9 to service 'sensors' (pid 16292) process group...
+10-25 08:29:20.722 I/init    (0): starting service 'sensors'...
+10-25 08:29:30.714 E/Sensors (16310): sns_sam.c(4704):SMGR not ready!
+10-25 08:29:30.717 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.718 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.718 E/Sensors (16310): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:29:30.718 E/Sensors (16310): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:29:30.718 E/Sensors (16310): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:29:30.718 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.718 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.719 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.719 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.719 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.719 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.720 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.720 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.720 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.720 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.721 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.721 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.721 E/Sensors (16310): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:30.722 E/Sensors (16310): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:30.729 W/sensors.qcom(16310): type=1400 audit(0.0:2132): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:30.729 W/sensors.qcom(16310): type=1400 audit(0.0:2133): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:30.749 E/Sensors (16310): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:29:30.749 E/Sensors (16310): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:29:30.749 E/Sensors (16310): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:29:30.769 W/sensors.qcom(16329): type=1400 audit(0.0:2134): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:29:30.799 W/sensors.qcom(16332): type=1400 audit(0.0:2135): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:30.799 W/sensors.qcom(16332): type=1400 audit(0.0:2136): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:30.810 E/Sensors (16329): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:29:30.810 E/Sensors (16329): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:29:30.810 E/Sensors (16329): sns_reg_la.c(375):Error creating registry file
+10-25 08:29:30.810 W/Sensors (16329): sns_reg_mr.c(367):File init failed 5
+10-25 08:29:30.816 I/init    (0): Service 'sensors' (pid 16310) exited with status 6
+10-25 08:29:30.816 I/init    (0): Sending signal 9 to service 'sensors' (pid 16310) process group...
+10-25 08:29:30.819 I/init    (0): starting service 'sensors'...
+10-25 08:29:40.814 E/Sensors (16329): sns_sam.c(4704):SMGR not ready!
+10-25 08:29:40.819 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.819 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.820 E/Sensors (16329): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:29:40.820 E/Sensors (16329): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:29:40.820 E/Sensors (16329): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:29:40.821 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.821 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.821 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.821 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.822 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.822 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.824 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.824 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.825 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.825 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.826 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.826 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.828 E/Sensors (16329): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:40.828 E/Sensors (16329): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:40.849 W/sensors.qcom(16329): type=1400 audit(0.0:2139): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:40.849 W/sensors.qcom(16329): type=1400 audit(0.0:2140): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:40.861 E/Sensors (16329): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:29:40.861 E/Sensors (16329): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:29:40.861 E/Sensors (16329): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:29:40.879 W/sensors.qcom(16365): type=1400 audit(0.0:2141): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:29:40.909 W/sensors.qcom(16368): type=1400 audit(0.0:2142): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:40.909 W/sensors.qcom(16368): type=1400 audit(0.0:2143): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:40.921 E/Sensors (16365): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:29:40.921 E/Sensors (16365): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:29:40.921 E/Sensors (16365): sns_reg_la.c(375):Error creating registry file
+10-25 08:29:40.921 W/Sensors (16365): sns_reg_mr.c(367):File init failed 5
+10-25 08:29:40.925 I/init    (0): Service 'sensors' (pid 16329) exited with status 6
+10-25 08:29:40.925 I/init    (0): Sending signal 9 to service 'sensors' (pid 16329) process group...
+10-25 08:29:40.927 I/init    (0): starting service 'sensors'...
+10-25 08:29:50.928 E/Sensors (16365): sns_sam.c(4704):SMGR not ready!
+10-25 08:29:50.933 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.933 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.934 E/Sensors (16365): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:29:50.934 E/Sensors (16365): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:29:50.934 E/Sensors (16365): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:29:50.935 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.935 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.937 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.937 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.938 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.938 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.938 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.938 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.939 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.939 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.939 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.939 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.940 E/Sensors (16365): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:29:50.940 E/Sensors (16365): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:29:50.959 W/sensors.qcom(16365): type=1400 audit(0.0:2146): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:50.959 W/sensors.qcom(16365): type=1400 audit(0.0:2147): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:50.972 E/Sensors (16365): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:29:50.972 E/Sensors (16365): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:29:50.972 E/Sensors (16365): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:29:50.999 W/sensors.qcom(16383): type=1400 audit(0.0:2148): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:29:51.019 W/sensors.qcom(16386): type=1400 audit(0.0:2149): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:51.019 W/sensors.qcom(16386): type=1400 audit(0.0:2150): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:29:51.035 E/Sensors (16383): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:29:51.035 E/Sensors (16383): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:29:51.035 E/Sensors (16383): sns_reg_la.c(375):Error creating registry file
+10-25 08:29:51.035 W/Sensors (16383): sns_reg_mr.c(367):File init failed 5
+10-25 08:29:51.037 I/init    (0): Service 'sensors' (pid 16365) exited with status 6
+10-25 08:29:51.038 I/init    (0): Sending signal 9 to service 'sensors' (pid 16365) process group...
+10-25 08:29:51.040 I/init    (0): starting service 'sensors'...
+10-25 08:30:01.042 E/Sensors (16383): sns_sam.c(4704):SMGR not ready!
+10-25 08:30:01.049 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.049 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.050 E/Sensors (16383): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:30:01.051 E/Sensors (16383): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:30:01.051 E/Sensors (16383): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:30:01.052 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.052 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.052 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.052 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.053 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.053 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.055 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.055 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.057 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.057 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.057 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.057 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.058 E/Sensors (16383): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:01.058 E/Sensors (16383): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:01.069 W/sensors.qcom(16383): type=1400 audit(0.0:2153): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:01.069 W/sensors.qcom(16383): type=1400 audit(0.0:2154): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:01.084 E/Sensors (16383): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:30:01.084 E/Sensors (16383): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:30:01.084 E/Sensors (16383): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:30:01.109 W/sensors.qcom(16407): type=1400 audit(0.0:2155): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:30:01.129 W/sensors.qcom(16410): type=1400 audit(0.0:2156): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:01.146 E/Sensors (16407): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:30:01.146 E/Sensors (16407): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:30:01.146 E/Sensors (16407): sns_reg_la.c(375):Error creating registry file
+10-25 08:30:01.146 W/Sensors (16407): sns_reg_mr.c(367):File init failed 5
+10-25 08:30:01.150 I/init    (0): Service 'sensors' (pid 16383) exited with status 6
+10-25 08:30:01.150 I/init    (0): Sending signal 9 to service 'sensors' (pid 16383) process group...
+10-25 08:30:01.152 I/init    (0): starting service 'sensors'...
+10-25 08:30:01.129 W/sensors.qcom(16410): type=1400 audit(0.0:2157): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:11.153 E/Sensors (16407): sns_sam.c(4704):SMGR not ready!
+10-25 08:30:11.160 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.160 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.161 E/Sensors (16407): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:30:11.161 E/Sensors (16407): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:30:11.161 E/Sensors (16407): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:30:11.161 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.161 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.161 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.161 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.162 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.162 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.162 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.162 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.163 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.163 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.163 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.163 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.164 E/Sensors (16407): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:11.164 E/Sensors (16407): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:11.169 W/sensors.qcom(16407): type=1400 audit(0.0:2160): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:11.169 W/sensors.qcom(16407): type=1400 audit(0.0:2161): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:11.189 E/Sensors (16407): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:30:11.189 E/Sensors (16407): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:30:11.189 E/Sensors (16407): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:30:11.209 W/sensors.qcom(16425): type=1400 audit(0.0:2162): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:30:11.229 W/sensors.qcom(16428): type=1400 audit(0.0:2163): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:11.240 E/Sensors (16425): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:30:11.240 E/Sensors (16425): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:30:11.240 E/Sensors (16425): sns_reg_la.c(375):Error creating registry file
+10-25 08:30:11.240 W/Sensors (16425): sns_reg_mr.c(367):File init failed 5
+10-25 08:30:11.249 I/init    (0): Service 'sensors' (pid 16407) exited with status 6
+10-25 08:30:11.249 I/init    (0): Sending signal 9 to service 'sensors' (pid 16407) process group...
+10-25 08:30:11.252 I/init    (0): starting service 'sensors'...
+10-25 08:30:11.229 W/sensors.qcom(16428): type=1400 audit(0.0:2164): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:21.243 E/Sensors (16425): sns_sam.c(4704):SMGR not ready!
+10-25 08:30:21.245 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.245 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.246 E/Sensors (16425): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:30:21.246 E/Sensors (16425): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:30:21.246 E/Sensors (16425): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:30:21.246 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.247 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.247 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.247 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.247 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.248 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.248 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.248 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.248 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.248 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.248 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.248 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.249 W/sensors.qcom(16425): type=1400 audit(0.0:2167): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:21.249 W/sensors.qcom(16425): type=1400 audit(0.0:2168): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:21.249 E/Sensors (16425): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:21.249 E/Sensors (16425): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:21.269 E/Sensors (16425): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:30:21.269 E/Sensors (16425): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:30:21.269 E/Sensors (16425): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:30:21.289 W/sensors.qcom(16442): type=1400 audit(0.0:2169): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:30:21.309 W/sensors.qcom(16445): type=1400 audit(0.0:2170): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:21.309 W/sensors.qcom(16445): type=1400 audit(0.0:2171): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:21.319 E/Sensors (16442): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:30:21.320 E/Sensors (16442): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:30:21.320 E/Sensors (16442): sns_reg_la.c(375):Error creating registry file
+10-25 08:30:21.320 W/Sensors (16442): sns_reg_mr.c(367):File init failed 5
+10-25 08:30:21.326 I/init    (0): Service 'sensors' (pid 16425) exited with status 6
+10-25 08:30:21.326 I/init    (0): Sending signal 9 to service 'sensors' (pid 16425) process group...
+10-25 08:30:21.329 I/init    (0): starting service 'sensors'...
+10-25 08:30:31.323 E/Sensors (16442): sns_sam.c(4704):SMGR not ready!
+10-25 08:30:31.326 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.326 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.327 E/Sensors (16442): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:30:31.327 E/Sensors (16442): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:30:31.327 E/Sensors (16442): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:30:31.327 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.327 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.328 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.328 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.328 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.328 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.328 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.328 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.329 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.329 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.329 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.329 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.329 E/Sensors (16442): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:31.329 E/Sensors (16442): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:31.339 W/sensors.qcom(16442): type=1400 audit(0.0:2174): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:31.339 W/sensors.qcom(16442): type=1400 audit(0.0:2175): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:31.360 E/Sensors (16442): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:30:31.360 E/Sensors (16442): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:30:31.360 E/Sensors (16442): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:30:31.389 W/sensors.qcom(16465): type=1400 audit(0.0:2176): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:30:31.409 W/sensors.qcom(16468): type=1400 audit(0.0:2177): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:31.409 W/sensors.qcom(16468): type=1400 audit(0.0:2178): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:31.420 E/Sensors (16465): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:30:31.421 E/Sensors (16465): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:30:31.421 E/Sensors (16465): sns_reg_la.c(375):Error creating registry file
+10-25 08:30:31.421 W/Sensors (16465): sns_reg_mr.c(367):File init failed 5
+10-25 08:30:31.427 I/init    (0): Service 'sensors' (pid 16442) exited with status 6
+10-25 08:30:31.427 I/init    (0): Sending signal 9 to service 'sensors' (pid 16442) process group...
+10-25 08:30:31.429 I/init    (0): starting service 'sensors'...
+10-25 08:30:41.424 E/Sensors (16465): sns_sam.c(4704):SMGR not ready!
+10-25 08:30:41.426 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.426 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.431 E/Sensors (16465): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:30:41.432 E/Sensors (16465): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:30:41.432 E/Sensors (16465): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:30:41.432 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.432 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.432 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.432 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.433 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.433 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.433 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.433 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.434 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.434 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.435 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.435 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.435 E/Sensors (16465): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:41.435 E/Sensors (16465): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:41.460 E/Sensors (16465): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:30:41.460 E/Sensors (16465): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:30:41.460 E/Sensors (16465): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:30:41.449 W/sensors.qcom(16465): type=1400 audit(0.0:2185): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:41.449 W/sensors.qcom(16465): type=1400 audit(0.0:2186): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:41.523 I/init    (0): Service 'sensors' (pid 16465) exited with status 6
+10-25 08:30:41.523 I/init    (0): Sending signal 9 to service 'sensors' (pid 16465) process group...
+10-25 08:30:41.526 I/init    (0): starting service 'sensors'...
+10-25 08:30:41.479 W/sensors.qcom(16673): type=1400 audit(0.0:2187): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:30:41.519 W/sensors.qcom(16676): type=1400 audit(0.0:2188): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:41.519 V/chatty  (16676): uid=0(root) /system/bin/sensors.qcom identical 1 line
+10-25 08:30:41.519 W/sensors.qcom(16676): type=1400 audit(0.0:2190): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:41.536 E/Sensors (16673): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:30:41.536 E/Sensors (16673): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:30:41.536 E/Sensors (16673): sns_reg_la.c(375):Error creating registry file
+10-25 08:30:41.536 W/Sensors (16673): sns_reg_mr.c(367):File init failed 5
+10-25 08:30:51.541 E/Sensors (16673): sns_sam.c(4704):SMGR not ready!
+10-25 08:30:51.545 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.545 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.545 E/Sensors (16673): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:30:51.545 E/Sensors (16673): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:30:51.545 E/Sensors (16673): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:30:51.546 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.546 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.546 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.546 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.547 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.547 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.547 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.547 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.548 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.548 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.548 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.548 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.548 E/Sensors (16673): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:30:51.548 E/Sensors (16673): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:30:51.549 W/sensors.qcom(16673): type=1400 audit(0.0:2192): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:51.549 W/sensors.qcom(16673): type=1400 audit(0.0:2193): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:51.562 E/Sensors (16673): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:30:51.562 E/Sensors (16673): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:30:51.562 E/Sensors (16673): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:30:51.630 I/init    (0): Service 'sensors' (pid 16673) exited with status 6
+10-25 08:30:51.630 I/init    (0): Sending signal 9 to service 'sensors' (pid 16673) process group...
+10-25 08:30:51.632 I/init    (0): starting service 'sensors'...
+10-25 08:30:51.589 W/sensors.qcom(16812): type=1400 audit(0.0:2194): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:30:51.619 W/sensors.qcom(16815): type=1400 audit(0.0:2195): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:51.619 W/sensors.qcom(16815): type=1400 audit(0.0:2196): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:30:51.637 E/Sensors (16812): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:30:51.637 E/Sensors (16812): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:30:51.638 E/Sensors (16812): sns_reg_la.c(375):Error creating registry file
+10-25 08:30:51.638 W/Sensors (16812): sns_reg_mr.c(367):File init failed 5
+10-25 08:31:01.643 E/Sensors (16812): sns_sam.c(4704):SMGR not ready!
+10-25 08:31:01.648 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.648 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.653 E/Sensors (16812): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:31:01.653 E/Sensors (16812): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:31:01.653 E/Sensors (16812): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:31:01.659 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.659 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.660 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.660 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.661 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.661 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.661 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.661 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.662 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.662 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.662 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.662 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.663 E/Sensors (16812): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:01.663 E/Sensors (16812): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:01.659 W/sensors.qcom(16812): type=1400 audit(0.0:2199): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:01.678 E/Sensors (16812): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:31:01.678 E/Sensors (16812): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:31:01.678 E/Sensors (16812): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:31:01.659 W/sensors.qcom(16812): type=1400 audit(0.0:2200): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:01.738 I/init    (0): Service 'sensors' (pid 16812) exited with status 6
+10-25 08:31:01.738 I/init    (0): Sending signal 9 to service 'sensors' (pid 16812) process group...
+10-25 08:31:01.741 I/init    (0): starting service 'sensors'...
+10-25 08:31:01.699 W/sensors.qcom(16842): type=1400 audit(0.0:2201): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:31:01.719 W/sensors.qcom(16845): type=1400 audit(0.0:2202): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:01.735 E/Sensors (16842): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:31:01.735 E/Sensors (16842): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:31:01.735 E/Sensors (16842): sns_reg_la.c(375):Error creating registry file
+10-25 08:31:01.735 W/Sensors (16842): sns_reg_mr.c(367):File init failed 5
+10-25 08:31:01.719 W/sensors.qcom(16845): type=1400 audit(0.0:2203): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:11.744 E/Sensors (16842): sns_sam.c(4704):SMGR not ready!
+10-25 08:31:11.749 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.749 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.750 E/Sensors (16842): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:31:11.750 E/Sensors (16842): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:31:11.751 E/Sensors (16842): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:31:11.751 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.751 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.752 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.753 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.754 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.754 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.756 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.756 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.758 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.758 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.760 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.760 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.761 E/Sensors (16842): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:11.761 E/Sensors (16842): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:11.779 W/sensors.qcom(16842): type=1400 audit(0.0:2206): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:11.793 E/Sensors (16842): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:31:11.793 E/Sensors (16842): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:31:11.793 E/Sensors (16842): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:31:11.851 I/init    (0): Service 'sensors' (pid 16842) exited with status 6
+10-25 08:31:11.851 I/init    (0): Sending signal 9 to service 'sensors' (pid 16842) process group...
+10-25 08:31:11.853 I/init    (0): starting service 'sensors'...
+10-25 08:31:11.809 W/sensors.qcom(16867): type=1400 audit(0.0:2208): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:31:11.839 W/sensors.qcom(16870): type=1400 audit(0.0:2209): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:11.852 E/Sensors (16867): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:31:11.852 E/Sensors (16867): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:31:11.852 E/Sensors (16867): sns_reg_la.c(375):Error creating registry file
+10-25 08:31:11.852 W/Sensors (16867): sns_reg_mr.c(367):File init failed 5
+10-25 08:31:11.839 W/sensors.qcom(16870): type=1400 audit(0.0:2210): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:21.858 E/Sensors (16867): sns_sam.c(4704):SMGR not ready!
+10-25 08:31:21.864 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.864 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.867 E/Sensors (16867): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:31:21.868 E/Sensors (16867): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:31:21.868 E/Sensors (16867): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:31:21.868 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.868 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.869 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.870 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.875 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.875 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.876 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.876 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.876 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.876 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.876 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.877 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.877 E/Sensors (16867): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:21.877 E/Sensors (16867): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:21.906 E/Sensors (16867): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:31:21.906 E/Sensors (16867): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:31:21.906 E/Sensors (16867): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:31:21.889 W/sensors.qcom(16867): type=1400 audit(0.0:2213): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:21.968 I/init    (0): Service 'sensors' (pid 16867) exited with status 6
+10-25 08:31:21.968 I/init    (0): Sending signal 9 to service 'sensors' (pid 16867) process group...
+10-25 08:31:21.970 I/init    (0): starting service 'sensors'...
+10-25 08:31:21.929 W/sensors.qcom(16895): type=1400 audit(0.0:2215): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:31:21.949 W/sensors.qcom(16898): type=1400 audit(0.0:2216): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:21.964 E/Sensors (16895): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:31:21.964 E/Sensors (16895): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:31:21.964 E/Sensors (16895): sns_reg_la.c(375):Error creating registry file
+10-25 08:31:21.964 W/Sensors (16895): sns_reg_mr.c(367):File init failed 5
+10-25 08:31:31.966 E/Sensors (16895): sns_sam.c(4704):SMGR not ready!
+10-25 08:31:31.968 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.968 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.969 E/Sensors (16895): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:31:31.969 E/Sensors (16895): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:31:31.969 E/Sensors (16895): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:31:31.969 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.969 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.970 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.970 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.971 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.971 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.971 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.971 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.972 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.972 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.975 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.975 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.975 E/Sensors (16895): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:31.975 E/Sensors (16895): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:31.969 W/sensors.qcom(16895): type=1400 audit(0.0:2220): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:31.989 E/Sensors (16895): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:31:31.989 E/Sensors (16895): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:31:31.989 E/Sensors (16895): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:31:32.073 I/init    (0): Service 'sensors' (pid 16895) exited with status 6
+10-25 08:31:32.073 I/init    (0): Sending signal 9 to service 'sensors' (pid 16895) process group...
+10-25 08:31:32.076 I/init    (0): starting service 'sensors'...
+10-25 08:31:32.029 W/sensors.qcom(16947): type=1400 audit(0.0:2222): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:31:32.074 E/Sensors (16947): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:31:32.059 W/sensors.qcom(16950): type=1400 audit(0.0:2223): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:32.059 W/sensors.qcom(16950): type=1400 audit(0.0:2224): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:32.074 E/Sensors (16947): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:31:32.074 E/Sensors (16947): sns_reg_la.c(375):Error creating registry file
+10-25 08:31:32.074 W/Sensors (16947): sns_reg_mr.c(367):File init failed 5
+10-25 08:31:42.082 E/Sensors (16947): sns_sam.c(4704):SMGR not ready!
+10-25 08:31:42.088 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.088 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.090 E/Sensors (16947): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:31:42.090 E/Sensors (16947): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:31:42.090 E/Sensors (16947): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:31:42.091 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.091 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.092 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.092 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.092 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.092 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.093 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.093 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.093 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.093 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.093 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.094 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.096 E/Sensors (16947): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:42.096 E/Sensors (16947): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:42.122 E/Sensors (16947): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:31:42.122 E/Sensors (16947): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:31:42.122 E/Sensors (16947): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:31:42.109 W/sensors.qcom(16947): type=1400 audit(0.0:2230): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:42.189 I/init    (0): Service 'sensors' (pid 16947) exited with status 6
+10-25 08:31:42.189 I/init    (0): Sending signal 9 to service 'sensors' (pid 16947) process group...
+10-25 08:31:42.192 I/init    (0): starting service 'sensors'...
+10-25 08:31:42.149 W/sensors.qcom(17031): type=1400 audit(0.0:2232): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:31:42.169 W/sensors.qcom(17034): type=1400 audit(0.0:2233): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:42.189 E/Sensors (17031): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:31:42.190 E/Sensors (17031): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:31:42.190 E/Sensors (17031): sns_reg_la.c(375):Error creating registry file
+10-25 08:31:42.190 W/Sensors (17031): sns_reg_mr.c(367):File init failed 5
+10-25 08:31:42.179 W/sensors.qcom(17034): type=1400 audit(0.0:2234): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:52.198 E/Sensors (17031): sns_sam.c(4704):SMGR not ready!
+10-25 08:31:52.203 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.203 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.204 E/Sensors (17031): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:31:52.204 E/Sensors (17031): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:31:52.204 E/Sensors (17031): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:31:52.205 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.205 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.207 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.207 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.208 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.209 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.236 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.236 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.239 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.239 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.241 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.241 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.243 E/Sensors (17031): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:31:52.243 E/Sensors (17031): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:31:52.239 W/sensors.qcom(17031): type=1400 audit(0.0:2237): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:52.239 W/sensors.qcom(17031): type=1400 audit(0.0:2238): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:52.255 E/Sensors (17031): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:31:52.255 E/Sensors (17031): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:31:52.255 E/Sensors (17031): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:31:52.324 I/init    (0): Service 'sensors' (pid 17031) exited with status 6
+10-25 08:31:52.324 I/init    (0): Sending signal 9 to service 'sensors' (pid 17031) process group...
+10-25 08:31:52.326 I/init    (0): starting service 'sensors'...
+10-25 08:31:52.279 W/sensors.qcom(17063): type=1400 audit(0.0:2239): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:31:52.299 W/sensors.qcom(17066): type=1400 audit(0.0:2240): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:52.299 W/sensors.qcom(17066): type=1400 audit(0.0:2241): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:31:52.319 E/Sensors (17063): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:31:52.319 E/Sensors (17063): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:31:52.319 E/Sensors (17063): sns_reg_la.c(375):Error creating registry file
+10-25 08:31:52.319 W/Sensors (17063): sns_reg_mr.c(367):File init failed 5
+10-25 08:32:02.326 E/Sensors (17063): sns_sam.c(4704):SMGR not ready!
+10-25 08:32:02.329 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.329 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.330 E/Sensors (17063): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:32:02.330 E/Sensors (17063): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:32:02.330 E/Sensors (17063): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:32:02.331 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.331 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.331 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.331 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.332 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.332 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.332 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.332 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.332 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.333 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.333 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.333 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.333 E/Sensors (17063): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:02.333 E/Sensors (17063): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:02.348 E/Sensors (17063): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:32:02.348 E/Sensors (17063): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:32:02.348 E/Sensors (17063): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:32:02.329 W/sensors.qcom(17063): type=1400 audit(0.0:2244): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:32:02.411 I/init    (0): Service 'sensors' (pid 17063) exited with status 6
+10-25 08:32:02.411 I/init    (0): Sending signal 9 to service 'sensors' (pid 17063) process group...
+10-25 08:32:02.413 I/init    (0): starting service 'sensors'...
+10-25 08:32:02.369 W/sensors.qcom(17098): type=1400 audit(0.0:2246): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:32:02.408 E/Sensors (17098): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:32:02.409 E/Sensors (17098): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:32:02.409 E/Sensors (17098): sns_reg_la.c(375):Error creating registry file
+10-25 08:32:02.409 W/Sensors (17098): sns_reg_mr.c(367):File init failed 5
+10-25 08:32:02.389 W/sensors.qcom(17101): type=1400 audit(0.0:2247): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:32:02.389 W/sensors.qcom(17101): type=1400 audit(0.0:2248): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:32:12.415 E/Sensors (17098): sns_sam.c(4704):SMGR not ready!
+10-25 08:32:12.416 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.416 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.418 E/Sensors (17098): mag_cal.c(1609):mag_cal_sam_init: Unknown UUID(1) 00000000-0000-0000
+10-25 08:32:12.418 E/Sensors (17098): mag_cal.c(1614):mag_cal_sam_init: Unknown UUID(2) 0000-000000000000
+10-25 08:32:12.418 E/Sensors (17098): sns_sam.c(4433):Failed to register algorithm service 16 with SAM
+10-25 08:32:12.418 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.418 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.418 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.418 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.419 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.419 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.419 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.419 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.419 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.419 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.420 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.420 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.420 E/Sensors (17098): sns_reg_la.c(99):reg_read: reg file not open
+10-25 08:32:12.420 E/Sensors (17098): sns_reg.c(294):Received error from sns_reg_read/write 5
+10-25 08:32:12.409 W/sensors.qcom(17098): type=1400 audit(0.0:2251): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:32:12.428 E/Sensors (17098): sns_fsa_la.c(322):mkdir failed, 13
+10-25 08:32:12.428 E/Sensors (17098): sns_init_la.c(210):Error 5 initializing sns_file_init
+10-25 08:32:12.428 E/Sensors (17098): sns_main.c(1738):Exiting! sensor1_init failed with 5
+10-25 08:32:12.472 I/init    (0): Service 'sensors' (pid 17098) exited with status 6
+10-25 08:32:12.472 I/init    (0): Sending signal 9 to service 'sensors' (pid 17098) process group...
+10-25 08:32:12.474 I/init    (0): starting service 'sensors'...
+10-25 08:32:12.429 W/sensors.qcom(17135): type=1400 audit(0.0:2253): avc: denied { read } for name="secd" dev="mmcblk0p43" ino=933 scontext=u:r:sensors:s0 tcontext=u:object_r:secd_exec:s0 tclass=file permissive=0
+10-25 08:32:12.470 E/Sensors (17135): sns_reg_la.c(311):No sns.reg file. Remove SW version file if exist.
+10-25 08:32:12.470 E/Sensors (17135): sns_fsa_la.c(84):realpath failed for directory name13
+10-25 08:32:12.470 E/Sensors (17135): sns_reg_la.c(375):Error creating registry file
+10-25 08:32:12.470 W/Sensors (17135): sns_reg_mr.c(367):File init failed 5
+10-25 08:32:12.459 W/sensors.qcom(17138): type=1400 audit(0.0:2254): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
+10-25 08:32:12.459 W/sensors.qcom(17138): type=1400 audit(0.0:2255): avc: denied { search } for name="/" dev="mmcblk0p31" ino=2 scontext=u:r:sensors:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=0
